@@ -55,11 +55,14 @@ streamlit run test1/psycho_test.py
 ---
 
 ## 기술 스택
-구분	사용 기술
-언어	Python
-웹 프레임워크	Streamlit
-라이브러리 관리	requirements.txt
-인터랙션 요소	버튼, 라디오버튼, 날짜입력 위젯
+
+| 구분           | 사용 기술              |
+| ------------ | ------------------ |
+| **언어**       | Python             |
+| **웹 프레임워크**  | Streamlit          |
+| **라이브러리 관리** | requirements.txt   |
+| **인터랙션 요소**  | 버튼, 라디오버튼, 날짜입력 위젯 |
+
 
 ---
 
