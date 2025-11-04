@@ -1,0 +1,25 @@
+# 가상환경 & 캐시
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 노트북 체크포인트
+.ipynb_checkpoints/
+
+# Streamlit 캐시(있으면)
+.streamlit/
+
+# 데이터/모델(혹시 생성 시)
+data/
+models/
+
+# 기타 임시 파일
+*.log
+.env
